@@ -1,0 +1,1020 @@
+0	Empty	
+1	Red Pillow	item
+2	Fine Red Pillow	item
+3	Red Stool, light	item
+4	Red Stool, dark	item
+5	Blue Pillow	item
+6	Violet Pillow	item
+7	White Pillow	item
+8	Black Pillow	item
+9	Light Blue Pillow	item
+10	Pink Pillow	item
+11	Maroon Pillow	item
+12	Dark Violet Pillow	item
+13	Red Pillow 2	item
+14	Orange Pillow	item
+15	Yellow Pillow	item
+16	Green Pillow	item
+17	Black White-spotted Pillow	item
+18	Black Yellow-spotted Pillow	item
+19	Black Green-spotted Pillow	item
+20	Violet-spotted Pillow	item
+21	Pink White-spotted Pillow	item
+22	Pink Violet-spotted Pillow	item
+23	Maroon White-spotted Pillow	item
+24	Orange Black-spotted Pillow	item
+25	Yellow and Green Striped Pillow	item
+26	Red and Blue Striped Pillow	item
+27	Black and White Striped Pillow	item
+28	Orange and Black Striped Pillow	item
+29	Red and Black Pillow	item
+30	Orange and Maroon Pillow	item
+31	Blue and Yellow Pillow	item
+32	Green and Yellow Pillow	item
+33	Golden Goblet	item
+34	Red Ball	item
+35	Parchment	item
+36	Cauldron	item
+37	Grey Ball on a Pedestal	item
+38	Red Ball on a Pedestal	item
+39	Black Ball on a Pedestal	item
+40	Pedestal	item
+41	Red Bullet	item
+42	Plate of Food	item
+43	Musteline Statue SW	item
+44	Musteline Statue SE	item
+45	Bongo Drum	item
+46	Lute	item
+47	Dagger	item
+48	Coffee Pot	item
+49	Snowglobe	item
+50	Red Flower	item
+51	Crown	item
+52	Necklace	item
+53	Pookie	item
+54	Grill	item
+55	Wooden Box, light	item
+56	Wooden Box, dark	item
+57	Crossbow	item
+58	Rapier	item
+59	Blue Egg, large	item
+60	Wooden Barrel	item
+61	Wooden Table, light	item
+62	Wooden Table, medium	item
+63	Wooden Table, dark	item
+64	Wooden Table, checkers	item
+65	Red Flag	item
+66	Wooden Pole, short	item
+67	Bale of Hay, SE	item
+68	Bale of Hay, SW	item
+69	Plant #1, medium	item
+70	Plant #2, small	item
+71	Plant #3	item
+72	Gondola, SW	item
+73	Short Wooden Table, light	item
+74	Short Wooden Table, dark	item
+75	Short Table, flower	item
+76	Short Table, Arabic	item
+77	Bed, SE	item
+78	Bed, SW	item
+79	Firewood	item
+80	Magic Lamp	item
+81	Plant #4	item
+83	Plant #5	item
+84	Plant #6	item
+85	Plant #7	item
+86	Plant #8	item
+87	Plant #9	item
+88	Plant #10	item
+89	Plant #11	item
+90	Plant #12	item
+91	Plant #13	item
+92	Plant #14	item
+93	Plant #15	item
+94	Plant #16	item
+95	Plant #17	item
+96	Plant #18	item
+97	Plant #19	item
+98	Plant #20	item
+99	Plant #21	item
+100	Plant #22	item
+101	Plant #23	item
+102	Plant #24	item
+103	Plant #25	item
+104	Plant #26	item
+105	Plant #27	item
+106	Plant #28	item
+107	Plant #29	item
+108	Plant #30	item
+109	Plant #31	item
+110	Plant #32	item
+111	Plant #33	item
+112	Plant #34	item
+113	Tree #1	item
+114	Tree #2	item
+115	Tree #3	item
+116	Tree #4	item
+117	Tree #5	item
+118	Tree #6	item
+119	Tree #7	item
+120	Tree #8	item
+121	Tree #9	item
+122	Tree #10	item
+123	Tree #11	item
+124	Tree #12	item
+125	Tree #13	item
+126	Tree #14	item
+127	Tree #15	item
+128	Tree #16	item
+129	Tree #17	item
+130	Tree #18	item
+131	Tree #19	item
+132	Tree #20	item
+133	Tree #21	item
+134	Tree #22	item
+135	Tree #23	item
+136	Tree #24	item
+137	Tree #25	item
+138	Tree #26	item
+139	Tree #27	item
+140	Tree #28	item
+141	Tree #29	item
+142	Tree #30	item
+143	Tree #31	item
+144	Tree #32	item
+145	Hay	item
+146	Hay #2	item
+147	Hay #3	item
+148	Hay #4	item
+149	Bird Bath	item
+150	Dagger #2	item
+151	Pillar	item
+152	Stone Pillar	item
+153	Weird Item #1	item
+154	Weird Item #2	item
+155	Weird Item #3	item
+156	Weird Item #4	item
+157	Weird Item #5	item
+158	Weird Item #6	item
+159	Pink Key	item
+160	Pink Egg, large	item
+161	Switch On, SW	item
+162	Switch Off, SW	item
+163	Switch On, SE	item
+164	Switch Off, SE	item
+165	White Chess Knight, NE	item
+166	White Chess Knight, SE	item
+167	White Chess Knight, SW	item
+168	White Chess Knight, NW	item
+169	Red Chess Knight, NE	item
+170	Red Chess Knight, SE	item
+171	Red Chess Knight, SW	item
+172	Red Chess Knight, NW	item
+173	Black Chess Knight, NE	item
+174	Black Chess Knight, SE	item
+175	Black Chess Knight, SW	item
+176	Black Chess Knight, NW	item
+177	Black Square	item
+178	Tall Red Stool	item
+179	Piano Keyboard	item
+180	Kitchen Counter	item
+181	Fridge	item
+182	Tall Wooden Table	item
+183	Stereos	item
+184	CD Tower	item
+185	Wooden Drawer, SE	item
+186	Lamp	item
+187	Weird Item #7	item
+188	Wooden Pole, long	item
+189	Bed, SE	item
+190	Bed, SW	item
+191	Wooden Table with Plates	item
+192	Kitchen Sink	item
+193	Puzzle Piece #1	item
+194	Puzzle Piece #2	item
+195	Puzzle Piece #3	item
+196	Puzzle Piece #4	item
+197	Puzzle Piece #5	item
+198	Puzzle Piece #6	item
+199	Puzzle Piece #7	item
+200	Puzzle Piece #8	item
+201	Puzzle Piece #9	item
+202	Puzzle Piece #10	item
+203	Puzzle Piece #11	item
+204	Puzzle Piece #12	item
+205	Puzzle Piece #13	item
+206	Puzzle Piece #14	item
+207	Puzzle Piece #15	item
+208	Puzzle Piece #16	item
+209	Puzzle Piece #17	item
+210	Puzzle Piece #18	item
+211	Puzzle Piece #19	item
+212	Puzzle Piece #20	item
+213	Puzzle Piece #21	item
+214	Puzzle Piece #22	item
+215	Puzzle Piece #23	item
+216	Puzzle Piece #24	item
+217	Puzzle Piece #25	item
+218	Puzzle Piece #26	item
+219	Puzzle Piece #27	item
+220	Puzzle Piece #28	item
+221	Puzzle Piece #29	item
+222	Puzzle Piece #30	item
+223	Puzzle Piece #31	item
+224	Puzzle Piece #32	item
+225	Painting, SE	item
+226	Painting #2, SE	item
+227	Painting #3, SE	item
+228	Painting #4, SE	item
+229	Painting, SW	item
+230	Painting #2, SW	item
+231	Painting #3, SW	item
+232	Painting #4, SW	item
+233	Kitchen Utensils, SE	item
+234	Mosaic Window, SE	item
+235	Mosaic Window #2, SE	item
+236	Window Lids, SE	item
+237	Eagle Head	item
+238	Mosaic Window, SW	item
+239	Mosaic Window #2, SW	item
+240	Window Lids, SW	item
+241	Blue Flag	item
+242	Yellow Flag	item
+243	Bed, SW	item
+244	Bed, SE	item
+245	Downward Stairs, NW	item
+246	Downward Stairs, NE	item
+247	Weird Item #8	item
+248	Weird Item #9	item
+249	Tree #33	item
+250	Tree #34	item
+251	Tree #35	item
+252	Tree #36	item
+253	Three Balls	item
+254	Invisible No-Walk Item	item
+255	Kiwi	item
+256	Scarhawk, SE	item
+257	The Galdoon Portal	item
+258	Message Center	item
+259	Wooden Door, SE	item
+260	Wooden Door, SW	item
+261	Portal	item
+262	Monster	item
+263	Weird Item #10	item
+264	Weird Item #11	item
+265	Upwards Stairs, NW	item
+266	Upwards Stairs, NE	item
+267	IC Only Sign	item
+268	Dream Portal	item
+269	Gondola, SW	item
+270	Gondola, SE	item
+271	Wooden Sign, SE	item
+272	Wooden Sign, SW	item
+273	Mycroft's Sign, SE	item
+274	Digo Market Sign, SW	item
+275	Keep Out Sign, SW	item
+276	Keep Out Sign, SE	item
+277	World's Largest Blossom	item
+278	Allegria Island Portal	item
+279	Jigsaw Joint Portal	item
+280	IC Only Door, SW	item
+281	Meovanni Village Sign, SE	item
+282	Equine Alley Sign, SW	item
+283	Exit Portal, SW	item
+284	Meovanni Village Portal	item
+285	Jigsaw Joint Portal #2	item
+286	Message Center #2	item
+287	Allegria Island Sign	item
+288	Exit Door Portal, SW	item
+289	Equine Alley Sign #2, SW	item
+290	Leonardo Park Sign, SW	item
+291	Theriopolis Portal, SW	item
+292	Meovanni Village Portal #2, SW	item
+293	Upwards Stairs, SW	item
+294	Upwards Stairs, SE	item
+295	Weird Item #9	item
+296	Weird Item #10	item
+297	Downward Stairs, SW	item
+298	Downward Stairs, SE	item
+299	Weird Item #11	item
+300	Weird Item #12	item
+301	Exit Ladder	item
+302	Bird, SE	item
+303	Jodi's Ostrix & Raptor Stable Sign, SW	item
+304	Official RP Info Sign, SW	item
+305	Black Chess Rook	item2
+306	Black Chess Knight	item2
+307	Black Chess Bishop	item2
+308	Black Chess Queen	item2
+309	Black Chess King	item2
+310	Black Chess Pawn	item2
+311	White Chess Rook	item2
+312	White Chess Knight	item2
+313	White Chess Bishop	item2
+314	White Chess Queen	item2
+315	White Chess King	item2
+316	White Chess Pawn	item2
+317	Blue Dragon	item2
+318	Yellow Dragon	item2
+319	Lamp	item2
+320	Fireplace, SW	item2
+321	Gift	item2
+322	Checkers Table	item2
+323	Poster #1, SE	item2
+324	Poster #2, SE	item2
+325	Poster #2, SW	item2
+326	Poster #1, SW	item2
+327	Coat of Arms, SW	item2
+328	Coat of Arms, SE	item2
+329	Half a Bed, SW	item2
+330	Bed, SW	item2
+331	Half a Bed, SW	item2
+332	Bird, SW	item2
+333	Half a Bed, SE	item2
+334	Bed, SE	item2
+335	Half a Bed, SE	item2
+336	Cheese	item2
+337	Painting #5, SE	item2
+338	Painting #5, SW	item2
+339	Painting #6, SE	item2
+340	Painting #6, SW	item2
+341	Painting #7, SE	item2
+342	Painting #7, SW	item2
+343	Painting #8, SE	item2
+344	Painting #8, SW	item2
+345	Painting #9, SE	item2
+346	Painting #9, SW	item2
+347	Painting #10, SE	item2
+348	Painting #10, SW	item2
+349	Painting #11, SE	item2
+350	Painting #11, SW	item2
+351	Painting #12, SE	item2
+352	Painting #12, SW	item2
+353	Open Sign	item2
+354	Private Sign	item2
+355	Very Private Sign	item2
+356	Official Furre Rules Sign	item2
+357	Meovanni Sign	item2
+358	Magic Book	item2
+359	Special House Rules Sign	item2
+360	PG Sign	item2
+361	Dragonlands Sign	item2
+362	Kasuria Sign	item2
+363	Dark Drakoria Sign	item2
+364	Neutral Zone Sign	item2
+365	Socializing Sign	item2
+366	Persona Play Sign	item2
+367	Strict RP Sign	item2
+368	Fun! Sign	item2
+369	Number 1	item2
+370	Number 2	item2
+371	Number 3	item2
+372	Number 4	item2
+373	Number 5	item2
+374	Number 6	item2
+375	Number 7	item2
+376	Number 8	item2
+377	Number 9	item2
+378	Number 10	item2
+379	Colon	item2
+380	At	item2
+381	Candle	item2
+382	Candle, lit	item2
+383	Tall Candle	item2
+384	Talle Candle, lit	item2
+385	Scarhawk, SE	item2
+386	Fur	item2
+387	Water Item #1	item2
+388	Water Item #2	item2
+389	Bugge, NW	item2
+390	Bugge, NE	item2
+391	Bugge, SE	item2
+392	Bugge, SW	item2
+393	Weird Item #13	item2
+394	Weird Item #14	item2
+395	Weird Item #15	item2
+396	Weird Item #16	item2
+397	Weird Item #17	item2
+398	Weird Item #18	item2
+399	Weird Item #19	item2
+400	Weird Item #20	item2
+401	Weird Item #21	item2
+402	Weird Item #22	item2
+403	Weird Item #23	item2
+404	Weird Item #24	item2
+405	Wooden Bookshelf, SE	item2
+406	Wooden Bookshelf, SW	item2
+407	Fire	item2
+408	Calduron, lit	item2
+409	Meat-eating Plant	item2
+410	Green Snake	item2
+411	Green Spider	item2
+412	Hatched Egg, blue	item2
+413	Violet Bench, light	item2
+414	Violet Bench, dark	item2
+415	Weird Item #25	item2
+416	Skull Pole	item2
+417	Butter Churn	item2
+418	Weird Item #26	item2
+419	Crowbar	item2
+420	Basket	item2
+421	Blue Key	item2
+422	Yellow Key	item2
+423	Lamp, SE	item2
+424	Lamp, SW	item2
+425	Wooden Bucket, empty	item2
+426	Wooden Bucket, filled	item2
+427	Book	item2
+428	Lamp	item2
+429	Arrow Sign, NE	item2
+430	Arrow Sign, NW	item2
+431	Arrow Sign, SE	item2
+432	Arrow Sign, SW	item2
+433	Letter A	item2
+434	Letter B	item2
+435	Letter C	item2
+436	Letter D	item2
+437	Letter E	item2
+438	Letter F	item2
+439	Letter G	item2
+440	Letter H	item2
+441	Letter I	item2
+442	Letter J	item2
+443	Letter K	item2
+444	Letter L	item2
+445	Letter M	item2
+446	Letter N	item2
+447	Letter O	item2
+448	Letter P	item2
+449	Letter Q	item2
+450	Letter R	item2
+451	Letter S	item2
+452	Letter T	item2
+453	Letter U	item2
+454	Letter V	item2
+455	Letter W	item2
+456	Letter X	item2
+457	Letter Y	item2
+458	Letter Z	item2
+459	Period	item2
+460	Exclamation Point	item2
+461	Tilde	item2
+462	Question Mark	item2
+463	Backslash	item2
+464	Slash	item2
+465	Square 0	item2
+466	Square 1	item2
+467	Square 2	item2
+468	Square 3	item2
+469	Square 4	item2
+470	Square 5	item2
+471	Square 6	item2
+472	Square 7	item2
+473	Square 8	item2
+474	Square 9	item2
+475	Square 10	item2
+476	Square 11	item2
+477	Square 12	item2
+478	Square 13	item2
+479	Square 14	item2
+480	Square 15	item2
+481	Circle 0	item2
+482	Circle 1	item2
+483	Circle 2	item2
+484	Circle 3	item2
+485	Circle 4	item2
+486	Circle 5	item2
+487	Circle 6	item2
+488	Circle 7	item2
+489	Circle 8	item2
+490	Circle 9	item2
+491	Circle 10	item2
+492	Circle 11	item2
+493	Circle 12	item2
+494	Circle 13	item2
+495	Circle 14	item2
+496	Circle 15	item2
+497	Triangle 0	item2
+498	Triangle 1	item2
+499	Triangle 2	item2
+500	Triangle 3	item2
+501	Triangle 4	item2
+502	Triangle 5	item2
+503	Triangle 6	item2
+504	Triangle 7	item2
+505	Triangle 8	item2
+506	Triangle 9	item2
+507	Triangle 10	item2
+508	Triangle 11	item2
+509	Triangle 12	item2
+510	Triangle 13	item2
+511	Triangle 14	item2
+512	Triangle 15	item2
+513	Heart 0	item2
+514	Heart 1	item2
+515	Heart 2	item2
+516	Heart 3	item2
+517	Heart 4	item2
+518	Heart 5	item2
+519	Heart 6	item2
+520	Heart 7	item2
+521	Heart 8	item2
+522	Heart 9	item2
+523	Heart 10	item2
+524	Heart 11	item2
+525	Heart 12	item2
+526	Heart 13	item2
+527	Heart 14	item2
+528	Heart 15	item2
+529	Yellow Door, SW	item2
+530	Pink Door, SW	item2
+531	Blue Door, SW	item2
+532	Weird Item #27	item2
+533	White Door, SW	item2
+534	Red Door, SW	item2
+535	Grey Door, SW	item2
+536	Wooden Door, SW	item2
+537	Yellow Door, SE	item2
+538	Pink Door, SE	item2
+539	Blue Door, SE	item2
+540	Weird Item #28	item2
+541	White Door, SE	item2
+542	Red Door, SE	item2
+543	Grey Door, SE	item2
+544	Wooden Door, SE	item2
+545	Fence Corner, NWNE	item2
+546	Fence Corner, NESE	item2
+547	Fence Corner, SWSE	item2
+548	Fence Corner, NWSW	item2
+549	Fence, SW	item2
+550	Fence, SE	item2
+551	Fence Bits	item2
+552	Fence Cross	item2
+553	Open Fence Gate, NW	item2
+554	Open Fence Gate, NE	item2
+555	Open Fence Gate, SE	item2
+556	Open Fence Gate, SW	item2
+557	Closed Fence Gate, NW	item2
+558	Closed Fence Gate, NE	item2
+559	Closed Fence Gate, SE	item2
+560	Closed Fence Gate, SW	item2
+561	Fence T-section, NWNESW	item2
+562	Fence T-section, NWNESE	item2
+563	Fence T-section, NWSWSE	item2
+564	Fence T-section, SWSENE	item2
+565	Spear	item2
+566	Ax	item2
+567	Morning Star	item2
+568	Hammer	item2
+569	Shovel	item2
+570	Backpack	item2
+571	Pouch	item2
+572	Brown Boots	item2
+573	Green Boots	item2
+574	Mask	item2
+575	Mask #2	item2
+576	Red Cape	item2
+577	Wedding Chapel Sign	item2
+578	The Hall of Records Sign	item2
+579	Bardic Circle Sign	item2
+580	OOC Sign	item2
+581	Guild Hall Sign	item2
+582	Storyteller's Circle Sign	item2
+583	Sign	item2
+584	Skull	item2
+585	Dusk 2 Dawn Portal	item2
+586	The Watering Hole Sign	item2
+587	Furrabian Nights Cafe Sign	item2
+588	Theatre Meovanni Sign	item2
+589	The Hedge Maze Sign	item2
+590	Talzhemir's Trading Post Sign	item2
+591	Felorin's Truth or Dare Pool Sign	item2
+592	Out of Character Organizations Sign	item2
+593	The VINCA Symbol	item2
+594	The Vinca Portal	item2
+595	Meovanni Village Portal	item2
+596	Persona Play Sign	item2
+597	Imaginarium Portal	item2
+598	Hawthorn Portal	item2
+599	Welcome Bell	item2
+600	Challenges Portal	item2
+601	Acropolis Portal	item2
+602	Allegria Island Portal	item2
+603	Goldwyn Portal	item2
+604	Furrabian Nights Portal	item2
+605	Furcadia Con 1 Portal	item2
+606	Dream Spot	item2
+607	Vinca Symbol #1	item2
+608	Vinca Symbol #2	item2
+609	Art Tripod	item2
+610	Weird Item #27	item2
+611	Weird Item #28	item2
+612	Blue Cape	item2
+613	Blue and Black Pillow	item2
+614	Tombstone	item2
+615	Bird #3	item2
+616	Weird Item #29	item2
+617	Furre	item2
+618	Wooden Cart, SE	item2
+619	Wooden Cart, SW	item2
+620	Weird Item #30	item2
+621	Cool 1 Sign	item2
+622	Cool 2 Sign	item2
+623	Cool 3 Sign	item2
+624	Black Square	item2
+1000	Fire #2	item3
+1001	Fire #3	item3
+1002	Tree #37	item3
+1003	Tree #38	item3
+1004	Tree #39	item3
+1005	Tree #40	item3
+1006	Tree #41	item3
+1007	Tree #42	item3
+1008	Tree #43	item3
+1009	Tree #44	item3
+1010	Tree #45	item3
+1011	Tree #46	item3
+1012	Tree #47	item3
+1013	Tree #48	item3
+1014	Tree #49	item3
+1015	Plant #35	item3
+1016	Plant #36	item3
+1017	Plant #37	item3
+1018	Plant #38	item3
+1019	Tree #50	item3
+1020	Plant #39	item3
+1021	Eggs	item3
+1022	Bird #4	item3
+1023	Bird #5	item3
+1024	Eggs #2	item3
+1025	Egg #3	item3
+1026	Chick	item3
+1027	Hen	item3
+1028	Chicken	item3
+1029	Weird Item #31	item3
+1030	Weird Item #32	item3
+1031	Turkey	item3
+1032	Plant #40	item3
+1033	Plant #41	item3
+1034	Tree #51	item3
+1035	Tree #52	item3
+1036	Flowers	item3
+1037	Flowers #2	item3
+1038	Grass	item3
+1039	Grass #2	item3
+1040	Grass #3	item3
+1041	Flower #2	item3
+1042	Flowers #3	item3
+1043	Flower #3	item3
+1044	Flower #4	item3
+1045	Flowers #4	item3
+1046	Flower #5	item3
+1047	Flowers #5	item3
+1048	Flowers #6	item3
+1049	Plant #40	item3
+1050	Plant #41	item3
+1051	Plant #42	item3
+1052	Plant #43	item3
+1053	Bush #1	item3
+1054	Bush #2	item3
+1055	Flowers #7	item3
+1056	Weird Item #37	item3
+1057	Weird Item #38	item3
+1058	Weird Item #39	item3
+1059	Weird Item #39	item3
+1060	Weird Item #40	item3
+1061	Weird Item #41	item3
+1062	Water Plant	item3
+1063	Water Plant #2	item3
+1064	Water Plant #3	item3
+1065	Weird Item #42	item3
+1066	Weird Item #43	item3
+1067	Water Plant #4	item3
+1068	Water Plant #5	item3
+1069	Water Plant #6	item3
+1070	Pond	item3
+1071	Pond #2	item3
+1072	Pond #3	item3
+1073	Waterfall #1, SE	item3
+1074	Waterfall #2, SE	item3
+1075	Waterfall #3, SE	item3
+1076	Waterfall #4, SE	item3
+1077	Waterfall #1, SW	item3
+1078	Waterfall #2, SW	item3
+1079	Waterfall #3, SW	item3
+1080	Waterfall #4, SW	item3
+1081	Fog	item3
+1082	Fog #2	item3
+1083	Weird Item #42	item3
+1084	Weird Item #43	item3
+1085	Weird Item #44	item3
+1086	Weird Item #45	item3
+1087	Weird Item #46	item3
+1088	Weird Item #47	item3
+1089	Weird Item #48	item3
+1090	Weird Item #49	item3
+1091	Weird Item #50	item3
+1092	Weird Item #51	item3
+1093	Weird Item #52	item3
+1094	Weird Item #53	item3
+1095	Weird Item #54	item3
+1096	Weird Item #55	item3
+1097	Weird Item #56	item3
+1098	Weird Item #57	item3
+1099	Rock #1	item3
+1100	Rock #2	item3
+1101	Rock #3	item3
+1102	Rock #4	item3
+1103	Rock #5	item3
+1104	Rock #6	item3
+1105	Rock #7	item3
+1106	Rock #8	item3
+1107	Rock #9	item3
+1108	Rock #10	item3
+1109	Rock #11	item3
+1110	Rock #12	item3
+1111	Rock #13	item3
+1112	Rock #14	item3
+1113	Rock #15	item3
+1114	Rock #16	item3
+1115	Rock #17	item3
+1116	Rock #18	item3
+1117	Rock #19	item3
+1118	Rock #20	item3
+1119	Rock #21	item3
+1120	Rock #22	item3
+1121	Cave #1	item3
+1122	Cave #2	item3
+1123	Cave #3	item3
+1124	Cave #4	item3
+1125	Cave #5	item3
+1126	Cave #6	item3
+1127	Cave #7	item3
+1128	Cave #8	item3
+1129	Cave #9	item3
+1130	Cave #10	item3
+1131	Cave #11	item3
+1132	Cave #12	item3
+1133	Cave Entrance	item3
+1134	Cave Entrance #2	item3
+1135	Hole	item3
+1136	Hole #2	item3
+1137	Hole #3	item3
+1138	Hole #4	item3
+1139	Hole #5	item3
+1140	Weird Item #58	item3
+1141	Ladders #2	item3
+1142	Ladders #3	item3
+1143	Ladders #4	item3
+1144	Ladders #5	item3
+1145	Well	item3
+1146	Well #2	item3
+1147	Art Tripod #2	item3
+1148	Black Chest	item3
+1149	Black Chest #2	item3
+1150	Light Wooden Box, SE	item3
+1151	Light Wooden Box, SW	item3
+1152	Medium Wooden Box, SE	item3
+1153	Medium Wooden Box, SW	item3
+1154	Round Table	item3
+1155	Casket	item3
+1156	Barrel on a Wooden Box	item3
+1157	Stool	item3
+1158	Vase	item3
+1159	Chest	item3
+1160	Vase #2	item3
+1161	Small Fire	item3
+1162	Weird Item #58	item3
+1163	Small Round Table	item3
+1164	Weird Item #59	item3
+1165	Carafe	item3
+1166	Oven	item3
+1167	Table with Tablecloth	item3
+1168	Set Table with Tablecloth	item3
+1169	Lyra	item3
+1170	Weird Item #61	item3
+1171	Kantele	item3
+1172	Basket, empty	item3
+1173	Basket, filled	item3
+1174	Weird Item #62	item3
+1175	Weird Item #63	item3
+1176	Teddy Bear	item3
+1177	Rag Doll	item3
+1178	Craddle	item3
+1179	Weird Item #64	item3
+1180	Weird Item #65	item3
+1181	Weird Item #66	item3
+1182	Tiki Statue	item3
+1183	Bedpost	item3
+1184	Bed	item3
+1185	Marquee, closed	item3
+1186	Marquee, opened	item3
+1187	Bureau, SE	item3
+1188	Bureau, SW	item3
+1189	Chest of Drawers, SE	item3
+1190	Chest of Drawers, SW	item3
+1191	Shelving, SE	item3
+1192	Shelving, SW	item3
+1193	Shelving #2, SE	item3
+1194	Shelving #2, SW	item3
+1195	Shelf, SW	item3
+1196	Shelf, SE	item3
+1197	Tools	item3
+1198	Tools #2	item3
+1199	Tools #3	item3
+1200	Weapons	item3
+1201	Weapons #2	item3
+1202	Wooden Door, SW	item3
+1203	Wooden Door, SE	item3
+1204	Weird Item #67	item3
+1205	Weird Item #68	item3
+1206	Weird Item #69	item3
+1207	Weird Item #70	item3
+1208	Green Roof #1	item3
+1209	Green Roof #2	item3
+1210	Green Roof #3	item3
+1211	Green Roof #4	item3
+1212	Green Roof #5	item3
+1213	Green Roof #6	item3
+1214	Green Roof #7	item3
+1215	Green Roof #8	item3
+1216	Green Roof #9	item3
+1217	Green Roof #10	item3
+1218	Straw Roof #1	item3
+1219	Straw Roof #2	item3
+1220	Straw Roof #3	item3
+1221	Straw Roof #4	item3
+1222	Straw Roof #5	item3
+1223	Straw Roof #6	item3
+1224	Weird Item #71	item3
+1225	Weird Item #72	item3
+1226	Doorway, SW	item3
+1227	Doorway #2, SW	item3
+1228	Pillar	item3
+1229	Pillar #2	item3
+1230	Doorway #3 SW, first half	item3
+1231	Doorway #3 SW, second half	item3
+1232	Painting #8 SW, first half	item3
+1233	Painting #8 SW, second half	item3
+1234	Painting #8, SE, first half	item3
+1235	Painting #8, SE, second half	item3
+1236	White Fence, SW	item3
+1237	White Fence, SE	item3
+1238	White Stairs Upwards, NW	item3
+1239	White Stairs Upwards #2, NW	item3
+1240	White Stairs Upwards, NE	item3
+1241	White Stairs Upwards #2, NE	item3
+1242	Weird Item #73	item3
+1243	Weird Item #74	item3
+1244	Weird Item #75	item3
+1245	Weird Item #76	item3
+1246	Weird Item #77	item3
+1247	Weird Item #78	item3
+1248	Weird Item #79	item3
+1249	Weird Item #80	item3
+1250	Weird Item #81	item3
+1251	Weird Table #1	item3
+1252	Weird Table #2	item3
+1253	Weird Table #3	item3
+1254	Weird Table #4	item3
+1255	Weird Table #5	item3
+1256	Weird Table #6	item3
+1257	Weird Table #7	item3
+1258	Weird Item #82	item3
+1259	Weird Item #83	item3
+1260	Weird Item #84	item3
+1261	Weird Item #85	item3
+1262	Weird Item #86	item3
+1263	Weird Item #87	item3
+1264	Weird Item #88	item3
+1265	Weird Item #89	item3
+1266	Weird Item #90	item3
+1267	Weird Item #91	item3
+1268	Weird Item #92	item3
+1269	Weird Item #93	item3
+1270	Weird Item #94	item3
+1271	Weird Item #95	item3
+1272	Chair, NW	item3
+1273	Chair #2, NW	item3
+1274	Chair, SE	item3
+1275	Weird Item #96	item3
+1276	Chair, NE	item3
+1277	Chair #2, NE	item3
+1278	Chair SW	item3
+1279	Weird Item #97	item3
+1280	Yellow Round Table	item3
+1281	Bed	item3
+1282	Bed	item3
+1283	Bed	item3
+1284	Chair #3, SW	item3
+1285	Sofa, SE	item3
+1286	Sofa #2, SE	item3
+1287	Sofa #3, SE	item3
+1288	Sofa #4, SE	item3
+1289	Sofa #5, SE	item3
+1290	Sofa #6, SE	item3
+1291	Sofa #7, SW	item3
+1292	Sofa #8, SW	item3
+1293	Sofa #9, SW	item3
+1294	Sofa #10, SE	item3
+1295	Sofa #11, SE	item3
+1296	Sofa #12, SE	item3
+1297	Computer	item3
+1298	Computer #2	item3
+1299	TV Set, SE	item3
+1300	No Walk Sign	item3
+1301	Christmas Stuff	item3
+1302	Gift Wrappers	item3
+1303	Gifts	item3
+1304	Fireworks	item3
+1305	Blue Balloon	item3
+1306	Yellow Balloon	item3
+1307	Red Balloon	item3
+1308	Three Balloons	item3
+1309	Three Balloons #2	item3
+1310	Food Cart	item3
+1311	Bench, SW	item3
+1312	Grand Piano	item3
+1313	Monster #2	item3
+1314	Monster #3	item3
+1315	Monster #4	item3
+1316	Monster #5	item3
+1317	Monster #6	item3
+1318	Monster #7	item3
+1319	Monster #8	item3
+1320	Monster #9	item3
+1321	NPC, SW	item3
+1322	NPC, SE	item3
+1323	Group Package Dream Spot	item3
+1324	Group Package Dream Portal	item3
+1325	Group Package Dream Spot #2	item3
+1326	Group Package Dream Portal #2	item3
+1327	Silver Sponsor Dream Spot	item3
+1328	Silver Sponsor Dream Portal	item3
+1329	Silver Sponsor Showcase Portal	item3
+1330	Theriopolis Portal	item3
+1331	Zephiroth Portal	item3
+1332	Portal	item3
+1333	Naia Green Portal	item3
+1334	Festival Portal	item3
+1335	The Wylde Portal	item3
+1336	Violet Portal	item3
+1337	Empty Item	item3
+1338	Warning	item3
+1339	Warning	item3
+1340	Warning	item3
+1341	Warning	item3
+1342	Warning	item3
+1343	Warning	item3
+1344	Warning	item3
+1345	Warning	item3
+1346	Warning	item3
+1347	Warning	item3
+1348	Warning	item3
+1349	Colorful Pillow	item4
+1350	Floating Pillow	item4
+1351	Floating Pillow #2	item4
+1352	Growing Plant	item4
+1353	Flickering Lamp	item4
+1354	Animated Fire in the Fireplace	item4
+1355	Animated Candle	item4
+1356	Animated Tall Candle	item4
+1357	Animated Fire	item4
+1358	Animated Calduron	item4
+1359	Flickering lamp post	item4
+1360	Animated Plants	item4
+1361	Animated Butterfly	item4
+1362	Animated Bubbles	item4
+1363	Animated Pond	item4
+1364	Animated Waterfall, SE	item4
+1365	Animated Waterfall #2, SE	item4
+1366	Animated Waterfall, SW	item4
+1367	Animated Waterfall #2, SW	item4
+1368	Animated Waterfall #3, SE	item4
+1369	Animated Waterfall #3, SW	item4
+1370	Animated Water	item4
+1371	Animated Water #2	item4
+1372	Animated Water #3	item4
+1373	Weird Item #98	item4
+1374	Weird Item #99	item4
+1375	Weird Item #99	item4
+1376	Torch	item4
+1377	Shower	item4
+1378	Animated Cart, SW	item4
+1379	Animated Cart, SE	item4
+1380	Animated Cart, NW	item4
+1381	Animated Cart, NE	item4
+1382	Flickering Lamp, SE	item4
+1383	Flickering Lamp, SW	item4
+1384	Waterthing	item4
+1385	Warning	item4
+1386	Warning	item4
+1387	Warning	item4
+1388	Warning	item4
+1389	Warning	item4
+1390	Warning	item4
+1391	Warning	item4
+1392	Warning	item4
+1393	Warning	item4
+2400	User Shape #0	iteme
+2401	User Shape #1	iteme

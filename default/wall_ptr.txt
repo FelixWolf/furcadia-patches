@@ -1,0 +1,180 @@
+0	Empty	
+1	Light Wall	wall
+2	Light Half-wall	wall
+3	Light Wall #2	wall
+4	Light Windowed Wall	wall
+5	Light Window-stilled Wall	wall
+6	Light Double Windowed Wall	wall
+7	Light Weird Windowed Wall	wall
+8	Light Doorway	wall
+9	Light Wall with Shelf	wall
+10	Light Door	wall
+11	Light Wall with Bookshelf	wall
+12	Empty	
+13	Dark Wall	wall
+14	Dark Half-wall	wall
+15	Dark Wall #2	wall
+16	Dark Windowed Wall	wall
+17	Dark Window-stilled Wall	wall
+18	Dark Narrow Windowed Wall	wall
+19	Dark Weird Windowed Wall	wall
+20	Dark Doorway	wall
+21	Dark Wall with Crack	wall
+22	Dark Door	wall
+23	Dark Wall with Chains	wall
+24	Empty	
+25	Brick Wall	wall_3
+26	Brick Half-wall	wall_3
+27	Brick Wall #2	wall_3
+28	Brick Windowed Wall	wall_3
+29	Brick Window-stilled Wall	wall_3
+30	Brick Narrow Windowed Wall	wall_3
+31	Brick Weird Windowed Wall	wall_3
+32	Brick Doorway	wall_3
+33	Brick Wall with Crack	wall_3
+34	Brick Door	wall_3
+35	Brick Wall with Bookshelf	wall_3
+36	Empty	
+37	White Stone Wall	wall_4
+38	White Stone Half-wall	wall_4
+39	White Stone Wall #2	wall_4
+40	White Stone Windowed Wall	wall_4
+41	White Stone Window-stilled Wall	wall_4
+42	White Stone Narrow Windowed Wall	wall_4
+43	White Stone Weird Windowed Wall	wall_4
+44	White Stone Doorway	wall_4
+45	White Stone Wall with Crack	wall_4
+46	White Stone Door	wall_4
+47	White Stone Wall with Bookshelf	wall_4
+48	Empty	
+49	Weird Wall	wall_5
+50	Weird Half-wall	wall_5
+51	Weird Wall #2	wall_5
+52	Weird Windowed Wall	wall_5
+53	Weird Window-stilled Wall	wall_5
+54	Weird Narrow Windowed Wall	wall_5
+55	Weird Weird Windowed Wall	wall_5
+56	Weird Doorway	wall_5
+57	Weird Wall with Crack	wall_5
+58	Weird Door	wall_5
+59	Weird Wall with Bookshelf	wall_5
+60	Empty	
+61	Weird #2 Wall	wall_6
+62	Weird #2 Half-wall	wall_6
+63	Weird #2 Wall #2	wall_6
+64	Weird #2 Windowed Wall	wall_6
+65	Weird #2 Window-stilled Wall	wall_6
+66	Weird #2 Narrow Windowed Wall	wall_6
+67	Weird #2 Weird Windowed Wall	wall_6
+68	Weird #2 Doorway	wall_6
+69	Weird #2 Wall with Crack	wall_6
+70	Weird #2 Door	wall_6
+71	Weird #2 Wall with Bookshelf	wall_6
+72	Empty	
+73	Stone Wall	wall_7
+74	Stone Half-wall	wall_7
+75	Stone Wall #2	wall_7
+76	Stone Windowed Wall	wall_7
+77	Stone Window-stilled Wall	wall_7
+78	Stone Narrow Windowed Wall	wall_7
+79	Stone Weird Windowed Wall	wall_7
+80	Stone Doorway	wall_7
+81	Stone Wall with Crack	wall_7
+82	Stone Door	wall_7
+83	Stone Wall with Bookshelf	wall_7
+84	Empty	
+85	User Wall	wall_8
+86	User Half-wall	wall_8
+87	User Wall #2	wall_8
+88	User Windowed Wall	wall_8
+89	User Window-stilled Wall	wall_8
+90	User Narrow Windowed Wall	wall_8
+91	User Weird Windowed Wall	wall_8
+92	User Doorway	wall_8
+93	User Wall with Crack	wall_8
+94	User Door	wall_8
+95	User Wall with Bookshelf	wall_8
+96	Empty	
+97	User #2 Wall	wall_9
+98	User #2 Half-wall	wall_9
+99	User #2 Wall #2	wall_9
+100	User #2 Windowed Wall	wall_9
+101	User #2 Window-stilled Wall	wall_9
+102	User #2 Narrow Windowed Wall	wall_9
+103	User #2 Weird Windowed Wall	wall_9
+104	User #2 Doorway	wall_9
+105	User #2 Wall with Crack	wall_9
+106	User #2 Door	wall_9
+107	User #2 Wall with Bookshelf	wall_9
+108	Empty	
+109	User #3 Wall	wall_10
+110	User #3 Half-wall	wall_10
+111	User #3 Wall #2	wall_10
+112	User #3 Windowed Wall	wall_10
+113	User #3 Window-stilled Wall	wall_10
+114	User #3 Narrow Windowed Wall	wall_10
+115	User #3 Weird Windowed Wall	wall_10
+116	User #3 Doorway	wall_10
+117	User #3 Wall with Crack	wall_10
+118	User #3 Door	wall_10
+119	User #3 Wall with Bookshelf	wall_10
+120	Empty	
+121	User #4 Wall	wall_11
+122	User #4 Half-wall	wall_11
+123	User #4 Wall #2	wall_11
+124	User #4 Windowed Wall	wall_11
+125	User #4 Window-stilled Wall	wall_11
+126	User #4 Narrow Windowed Wall	wall_11
+127	User #4 Weird Windowed Wall	wall_11
+128	User #4 Doorway	wall_11
+129	User #4 Wall with Crack	wall_11
+130	User #4 Door	wall_11
+131	User #4 Wall with Bookshelf	wall_11
+132	Empty	
+133	User #5 Wall	wall_12
+134	User #5 Half-wall	wall_12
+135	User #5 Wall #2	wall_12
+136	User #5 Windowed Wall	wall_12
+137	User #5 Window-stilled Wall	wall_12
+138	User #5 Narrow Windowed Wall	wall_12
+139	User #5 Weird Windowed Wall	wall_12
+140	User #5 Doorway	wall_12
+141	User #5 Wall with Crack	wall_12
+142	User #5 Door	wall_12
+143	User #5 Wall with Bookshelf	wall_12
+144	Empty	
+145	User #6 Wall	wall_13
+146	User #6 Half-wall	wall_13
+147	User #6 Wall #2	wall_13
+148	User #6 Windowed Wall	wall_13
+149	User #6 Window-stilled Wall	wall_13
+150	User #6 Narrow Windowed Wall	wall_13
+151	User #6 Weird Windowed Wall	wall_13
+152	User #6 Doorway	wall_13
+153	User #6 Wall with Crack	wall_13
+154	User #6 Door	wall_13
+155	User #6 Wall with Bookshelf	wall_13
+156	Empty	
+157	User #7 Wall	wall_14
+158	User #7 Half-wall	wall_14
+159	User #7 Wall #2	wall_14
+160	User #7 Windowed Wall	wall_14
+161	User #7 Window-stilled Wall	wall_14
+162	User #7 Narrow Windowed Wall	wall_14
+163	User #7 Weird Windowed Wall	wall_14
+164	User #7 Doorway	wall_14
+165	User #7 Wall with Crack	wall_14
+166	User #7 Door	wall_14
+167	User #7 Wall with Bookshelf	wall_14
+168	Empty	
+169	User #8 Wall	wall_15
+170	User #8 Half-wall	wall_15
+171	User #8 Wall #2	wall_15
+172	User #8 Windowed Wall	wall_15
+173	User #8 Window-stilled Wall	wall_15
+174	User #8 Narrow Windowed Wall	wall_15
+175	User #8 Weird Windowed Wall	wall_15
+176	User #8 Doorway	wall_15
+177	User #8 Wall with Crack	wall_15
+178	User #8 Door	wall_15
+179	User #8 Wall with Bookshelf	wall_15
